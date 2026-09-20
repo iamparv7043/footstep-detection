@@ -5,3 +5,4 @@ checkpoints/*.pt
 dataset/footstep/*.wav
 dataset/no_footstep/*.wav
 dataset/footstep_original_backup/*.wav
+*Zone.Identifier*
